@@ -11,6 +11,7 @@ Are you interested in smart contract development or security? Does securing the 
 * metamask:https://metamask.io/
 * etherscan:https://rinkeby.etherscan.io/
 * faucet:https://faucet.rinkeby.io/
+* Twitter:https://twitter.com/cascade79142798/status/1397514349426606085
 
 ## Structure
 * [level0:Hello Ethernaut](https://github.com/cascades-sjtu/EthernautWP/blob/main/src/0.md)
